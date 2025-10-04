@@ -1,4 +1,7 @@
 # How to Become a Data Scientist?
+
+![Data Scientist at work](./Gemini_Generated_Image_data_scientist.png)
+
 ## Introduction
 In recent years, Data Scientist has become one of the most popular and sought-after occupations worldwide. But what are the key factors for success in this career path? To explore this question, we analyzed the 2025 Stack Overflow Developer Survey, which collected about 50,000 responses.
 
